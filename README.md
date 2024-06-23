@@ -27,14 +27,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duduzaomt&show_icons=true&title_color=000000&text_color=24292e&icon_color=6f42c1&bg_color=ffffff&locale=en" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duduzaomt&show_icons=true&title_color=000000&text_color=24292e&icon_color=6f42c1&bg_color=ffffff&locale=en&layout=donut" alt="Top Languages">
 </div>
-
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duduzaomt&show_icons=true&theme=tokyonight&title_color=000000&text_color=575757&bg_color=ffffff&locale=en" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=duduzaomt&show_icons=true&icon_color=8B0000&title_color=000000&text_color=575757&bg_color=ffffff&custom_title=Eduardo+GitHub+Stats&locale=en&ring_color=8B0000" alt="GitHub Stats">
 </div>
-
+<br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duduzaomt&ring=purple&fire=purple&currStreakLabel=purple&sideLabels=grey&dates=666666&fireColor=purple&stroke=666666" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duduzaomt&ring=DAA520&fire=DAA520&currStreakLabel=DAA520&sideLabels=36454F&dates=36454F&fireColor=DAA520&stroke=808080" alt="GitHub Streak">
 </div>
 
