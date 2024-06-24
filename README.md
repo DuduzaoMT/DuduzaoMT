@@ -1,5 +1,7 @@
 <h2 align="center">👋 HI! I'm Eduardo Silva</h2>
-
+<p align="center">
+  🌱 I´m a computer science student and also a natural bodybuilding athlete aiming to turn WNBF-PRO.
+</p>
 <p align="center">
   <a href="https://instagram.com/eduardo.silva.25">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -8,6 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 <br>
 <h2 align="center">💻 Languages and Tools</h2>
 
@@ -18,10 +21,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-</p>
-
-<p align="center">
-  🌱 I'm passionate about learning and also a natural bodybuilding athlete aiming to turn WNBF-PRO.
 </p>
 <br>
 <h2 align="center">📊 GitHub Stats</h2>
